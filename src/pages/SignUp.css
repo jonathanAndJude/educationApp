@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .form__container {
+  background-color: brown;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1.5rem;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.container .form__container form h1 {
+  font-size: 2.5rem;
+}
