@@ -43,7 +43,7 @@ form {
   margin-bottom: 1.5rem;
   padding: 0 0 5px;
   font-weight: 700;
-  border-bottom: 1px solid rgb(135, 185, 60);
+  border-bottom: 1px solid #1d60b0;
 }
 
 .form__data {
@@ -63,7 +63,7 @@ form {
 
 .form__btn {
   padding: 10px 1.5rem;
-  background-color: rgb(135, 185, 60);
+  background-color: #1d60b0;
   color: white;
   font-weight: 500;
   font-size: 1rem;
@@ -81,7 +81,7 @@ form {
 }
 
 .redirect .link {
-  color: rgb(135, 185, 60);
+  color: #1d60b0;
   transition: all 0.5s ease-in-out;
   position: relative;
   margin-left: 7px;
@@ -93,7 +93,7 @@ form {
   bottom: -5px;
   left: 0;
   height: 3px;
-  background-color: rgb(135, 185, 60);
+  background-color: #1d60b0;
   width: 0;
   transition: all 0.5s ease-in-out;
 }
